@@ -7,4 +7,4 @@ The .sch and .pcb are Eagle Design files
 I am selling this board here:
 https://www.tindie.com/products/jaspersikken/solar-harvesting-into-lithium-ion-capacitor/
 
-
+<img src="https://cdn.tindiemedia.com/images/resize/GddFR2l2RznXYSWWi6GepSNR7Eo=/p/fit-in/653x435/filters:fill(fff)/i/20561/products/2021-04-10T18%3A27%3A41.011Z-WIN_20210315_20_51_40_Pro.jpg">
